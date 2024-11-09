@@ -3,11 +3,13 @@
 </h1>
 
 
-I’m a computer science student, passionate about solving complex problems and building AI applications. I enjoy building projects to support daily life and (attempting) to keep my code bug-free.
+I’m a computer science student with a deep passion for solving complex problems and creating AI applications that make life easier. I enjoy building projects that can directly impact real-world scenarios while constantly refining my skills to ensure my code is as bug-free as possible (even if I don’t always succeed).
 
 ### A Little About Me:
-- **Core Interests**: Building AI applications for real-life purposes and learning new tech.
-- **Fun Fact**: Occasionally funny, always focused.
+- **Core Interests**: Designing AI-driven solutions, staying on top of emerging technologies, and continuously learning.
+- **Spare Time Activity**: I love playing games and making games as well.
+- **Fun Fact**: I’m occasionally funny, but I’m always focused on delivering high-quality results.
+
 
 
 ###
