@@ -3,10 +3,8 @@
 ###
 
 <p align="left">I’m a computer science student with a passion for solving complex problems and creating AI-driven applications. I love developing projects that enhance daily life, from simple tools to more ambitious applications that push the boundaries of tech. My goal? Code that’s efficient, reliable, and (mostly) bug-free! 
-
-<br><br>
-
-## A Little About Me:<br>
+  
+### A Little About Me:<br>
 - **Core Interests**: Designing AI applications with real-world impact and continuously exploring new technologies and tools.<br>
 - **Fun Fact**: Occasionally funny, always focused, and a fan of clean, maintainable code. When I'm not coding, you can usually find me diving into new tech articles or learning the latest frameworks.</p>
 
