@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is NTK_Hary </h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NTK_Harry!;" />
+</h1>
+
 
 I’m a computer science student, passionate about solving complex problems and building AI applications. I enjoy building projects to support daily life and (attempting) to keep my code bug-free.
 
