@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is NTK_Hary </h2>
 
 I’m a computer science student, passionate about solving complex problems and building AI applications. I enjoy building projects to support daily life and (attempting) to keep my code bug-free.
 
