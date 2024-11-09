@@ -1,8 +1,11 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
+I’m a computer science student, passionate about solving complex problems and building AI applications. I enjoy building projects to support daily life and (attempting) to keep my code bug-free.
 
-<p align="left">I’m a computer science student, passionate about solving complex problems and building AI application. I enjoy building projects to support daily life and (attempting) to keep my code bug-free. <br><br>## A Little About Me:<br>- **Core Interests**: Building AI application for real life purposes and learning new techs<br>- **Fun Fact**: Occasionally funny, always focused.</p>
+### A Little About Me:
+- **Core Interests**: Building AI applications for real-life purposes and learning new tech.
+- **Fun Fact**: Occasionally funny, always focused.
+
 
 ###
 
