@@ -1,13 +1,8 @@
-<h2 align="left">Hi 👋! My name is NTK_Harry </h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
-<p align="left">I’m a computer science student with a passion for solving complex problems and creating AI-driven applications. I love developing projects that enhance daily life, from simple tools to more ambitious applications that push the boundaries of tech. My goal? Code that’s efficient, reliable, and (mostly) bug-free! 
-  
-### A Little About Me:<br>
-- **Core Interests**: Designing AI applications with real-world impact and continuously exploring new technologies and tools.<br>
-- **Fun Fact**: Occasionally funny, always focused, and a fan of clean, maintainable code. When I'm not coding, you can usually find me diving into new tech articles or learning the latest frameworks.</p>
-
+<p align="left">I’m a computer science student, passionate about solving complex problems and building AI application. I enjoy building projects to support daily life and (attempting) to keep my code bug-free. <br><br>## A Little About Me:<br>- **Core Interests**: Building AI application for real life purposes and learning new techs<br>- **Fun Fact**: Occasionally funny, always focused.</p>
 
 ###
 
@@ -59,24 +54,6 @@
 
 ###
 
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+<img src="https://raw.githubusercontent.com/NTKHarry/NTKHarry/output/snake.svg" alt="Snake animation" />
 
 ###
