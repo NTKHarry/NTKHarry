@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NTK_Harry!;" />
-</h1>      
+</h1>       
 
 
 I’m a computer science student with a deep passion for solving complex problems and creating AI applications that make life easier. I enjoy building projects that can directly impact real-world scenarios while constantly refining my skills to ensure my code is as bug-free as possible (even if I don’t always succeed).
